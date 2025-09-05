@@ -1,14 +1,6 @@
+import Desktop4 from "./pages/Desktop4/index.jsx";
 
-import './App.css'
 
-function App() {
-  
-
-  return (
-    <>
-      
-    </>
-  )
+export default function App() {
+return <Desktop4 />;
 }
-
-export default App
