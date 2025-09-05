@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>vikas mtlp development</h1>
+      <h1>i hate coding</h1>
     </>
   )
 }
