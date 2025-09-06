@@ -11,7 +11,7 @@ lg: "h-12 px-6 text-base",
 const variants = {
 primary: "bg-violet-600 text-white hover:bg-violet-700 shadow-sm",
 outline: "border border-gray-300 bg-white text-gray-800 hover:bg-gray-50",
-ghost: "bg-transparent text-gray-700 hover:bg-gray-100",
+ghost: "bg-transparent text-gray-700 hover:bg-gray-200",
 };
 
 
